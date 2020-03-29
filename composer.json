@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "habilahc/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Andre H Cantera",
+            "email": "andrehabila@hotmail.com"
         }
     ],
     "require": {
